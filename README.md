@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaima-Khenafif03
-- 👀 I’m interested in  ai,security 
+- 👀 I’m interested in  ai,web development
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my email address:chaimakhenafif03@gmail.com
